@@ -1,9 +1,9 @@
 <!DOCTYPE HTML>
-<html lang="en">
+<html lang="th">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <title>Sydney Louit</title>
+    <title>ซิดนีย์ ลูวีต</title>
 
     <meta name="author" content="Sydney Louit">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,7 +22,7 @@
                 <p class="name" style="text-align: center;">
                   Sydney Louit
                 </p>
-                <p>Hello and welcome to my site! I'm a Ph.D. candidate in statistics at the University of Connecticut, where I teach and research. I am 23 years old and come from Weston, CT. Outside of school, I enjoy hiking, hooping, and coding. 
+                <p>ยินดีต้อนรับ! I'm a Ph.D. candidate in statistics at the University of Connecticut, where I teach and research. ผมอายู ๒๓ ปี. ผมมาจากคอนเนตทิกัต. . Outside of school, I enjoy hiking, hooping, and coding. 
                 </p>
                 <p>
                   I am currently doing my Ph.D. at the University of Connecticut (Storrs), under the supervision of Prof. <a href="https://statcomp.org/?">Jun Yan</a>. During the school year, I also teach undergraduate statistics classes. Courses in which I have been the primary instructor can be found below.
@@ -157,17 +157,11 @@
             <tr>
               <td style="padding:20px;width:25%;vertical-align:middle"><img src="images/cvf.jpg"></td>
               <td width="75%" valign="center">
-                <a href="data/viirs.pdf">Predicting Future Light Pollution Using VIIRS Satellite Data and OECD GDP Projections to 2060</a>
-		<br>
-		<em>First place, NESS NextGen Data Science Day, 2021</em>
+                <a href="data">Using VIIRS Satellite Data to Predict Future Light Pollution</a>
                 <br>
                 <a href="">2022 FIFA World Cup Model</a>
                 <br>
-		<em>Class Project, Linear Models II</em>
-		<br>
                 <a href="https://forecast.decisiondeskhq.com/senate">2022 Election Forecast</a>
-		<br>
-		<em>In collaboration with Decision Desk HQ</em>
                 <br>
                 <a href="">2020 Election Live Model</a>
                 <br>

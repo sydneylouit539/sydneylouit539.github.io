@@ -157,17 +157,11 @@
             <tr>
               <td style="padding:20px;width:25%;vertical-align:middle"><img src="images/cvf.jpg"></td>
               <td width="75%" valign="center">
-                <a href="data/viirs.pdf">Predicting Future Light Pollution Using VIIRS Satellite Data and OECD GDP Projections to 2060</a>
-		<br>
-		<em>First place, NESS NextGen Data Science Day, 2021</em>
+                <a href="data">Using VIIRS Satellite Data to Predict Future Light Pollution</a>
                 <br>
                 <a href="">2022 FIFA World Cup Model</a>
                 <br>
-		<em>Class Project, Linear Models II</em>
-		<br>
                 <a href="https://forecast.decisiondeskhq.com/senate">2022 Election Forecast</a>
-		<br>
-		<em>In collaboration with Decision Desk HQ</em>
                 <br>
                 <a href="">2020 Election Live Model</a>
                 <br>
